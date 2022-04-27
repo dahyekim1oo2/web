@@ -6,17 +6,20 @@ p{
 }
 .back{
     --bs-bg-opacity: 1;
-    background-color:rgb(245, 173, 227);
+    background-color:rgb(166, 186, 230);
 
 }
 
-.L{ text-shadow:2px 2px 6px rgb(189, 54, 189); color: rgb(245, 245, 245); font-size: 50px ; font-weight:bolder;}
+.L{ text-shadow:2px 2px 6px rgb(97, 126, 189); color: rgb(245, 245, 245); font-size: 50px ; font-weight:bolder;}
 
-.b{ color:rgb(188, 124, 248);  }
+.b{ color:rgb(166, 186, 230);  }
 .blue{color:rgb(47, 44, 230); }
 .red{color:rgb(241, 0, 0);  }
-.y1{color:rgb(243, 229, 75); }
+.y1{color:rgb(40, 81, 114); }
 .g{color: #57722d;}
-.p{color: rgb(192, 150, 189);font-weight: bold;font-size: 15px;}
-.y2{color: rgb(245, 243, 112);text-shadow:1px 1px 1px rgb(196, 179, 196);}
-.p2{color: rgb(235, 170, 255);text-shadow:1px 1px 1px rgb(196, 179, 196);}
+.b_m{color: rgb(47, 60, 133);}
+.icon{ color: rgb(97, 126, 189);}
+.p{color: rgb(47, 60, 133);font-weight: bold;font-size: 15px;}
+.y2{color: rgb(119, 135, 228);text-shadow:1px 1px 1px rgb(196, 179, 196);}
+.p2{color: rgb(75, 110, 187);text-shadow:1px 1px 1px rgb(196, 179, 196);}
+
